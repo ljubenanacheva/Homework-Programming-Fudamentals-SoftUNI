@@ -1,0 +1,9 @@
+C:\Users\x\Desktop\Debit Card Number\Debit Card Number\bin\Debug\Debit Card Number.exe.config
+C:\Users\x\Desktop\Debit Card Number\Debit Card Number\bin\Debug\Debit Card Number.exe
+C:\Users\x\Desktop\Debit Card Number\Debit Card Number\bin\Debug\Debit Card Number.pdb
+C:\Users\x\Desktop\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.exe
+C:\Users\x\Desktop\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.pdb
+C:\Users\x\Desktop\Homework\Debit Card Number\Debit Card Number\bin\Debug\Debit Card Number.exe.config
+C:\Users\x\Desktop\Homework\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.exe
+C:\Users\x\Desktop\Homework\Debit Card Number\Debit Card Number\obj\Debug\Debit Card Number.pdb

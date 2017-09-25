@@ -1,0 +1,5 @@
+C:\Users\x\Desktop\Beverage Labels\Beverage Labels\bin\Debug\Beverage Labels.exe.config
+C:\Users\x\Desktop\Beverage Labels\Beverage Labels\bin\Debug\Beverage Labels.exe
+C:\Users\x\Desktop\Beverage Labels\Beverage Labels\bin\Debug\Beverage Labels.pdb
+C:\Users\x\Desktop\Beverage Labels\Beverage Labels\obj\Debug\Beverage Labels.exe
+C:\Users\x\Desktop\Beverage Labels\Beverage Labels\obj\Debug\Beverage Labels.pdb

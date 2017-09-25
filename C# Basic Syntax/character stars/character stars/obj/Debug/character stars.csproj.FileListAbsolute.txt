@@ -1,0 +1,6 @@
+C:\Users\x\Desktop\character stars\character stars\bin\Debug\character stars.exe.config
+C:\Users\x\Desktop\character stars\character stars\bin\Debug\character stars.exe
+C:\Users\x\Desktop\character stars\character stars\bin\Debug\character stars.pdb
+C:\Users\x\Desktop\character stars\character stars\obj\Debug\character stars.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\character stars\character stars\obj\Debug\character stars.exe
+C:\Users\x\Desktop\character stars\character stars\obj\Debug\character stars.pdb
