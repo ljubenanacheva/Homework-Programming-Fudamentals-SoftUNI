@@ -1,0 +1,6 @@
+C:\Users\x\Desktop\Cake Ingradients\Cake Ingradients\bin\Debug\Cake Ingradients.exe.config
+C:\Users\x\Desktop\Cake Ingradients\Cake Ingradients\bin\Debug\Cake Ingradients.exe
+C:\Users\x\Desktop\Cake Ingradients\Cake Ingradients\bin\Debug\Cake Ingradients.pdb
+C:\Users\x\Desktop\Cake Ingradients\Cake Ingradients\obj\Debug\Cake Ingradients.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\Cake Ingradients\Cake Ingradients\obj\Debug\Cake Ingradients.exe
+C:\Users\x\Desktop\Cake Ingradients\Cake Ingradients\obj\Debug\Cake Ingradients.pdb
